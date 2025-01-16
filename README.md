@@ -82,17 +82,6 @@ A dynamic website built using modern HTML5 and CSS3 features to showcase and sha
 - Backdrop Filter
 - Gradient Backgrounds
 
-## Project Structure
-```
-project/
-├── index.html
-├── styles.css
-├── README.md
-└── assets/
-    ├── images/
-    └── videos/
-```
-
 ## Browser Compatibility
 - Modern browsers (Chrome, Firefox, Safari, Edge)
 - Responsive design for mobile and tablet devices
